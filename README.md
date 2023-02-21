@@ -24,11 +24,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails React ] <a name="about-project"></a>
+# 📖 [Hello React Front End ] <a name="about-project"></a>
 
 > In this application I explore a rails api client whose data would be consumed by a seperate react front end clinet.
 
-**[hello_rails_backend]** is an application to help explore how to connect react and use it to its maximum with rails application.
+**[hello_react_front_end]** is an application to help explore how to connect react and use it to its maximum with rails application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,11 +94,11 @@ Clone this repository to your desired folder:
 
 To run and view this application, you will first have to clone a local version of this repository using:
 
-`git clone https://github.com/RayhanTabase/hello-rails-back-end.git`
+`git clone https://github.com/RayhanTabase/hello-reacct-front-end.git`
 
 After that navigate to the newly created folder:
 
-`cd hello-rails-back-end`
+`cd hello-reacct-front-end`
 
 ### Install
 
